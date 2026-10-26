@@ -1,0 +1,70 @@
+================================================================================
+                    PUNTO DE JUEGO / PUNT DE JOC
+               Identidad, Trasfondo y Memoria del Proyecto
+================================================================================
+
+1. HISTORIA DE ORIGEN
+--------------------------------------------------------------------------------
+Punto de Juego nació en otoño de 2024 en Mataró. Empezó de manera informal: dos 
+amigos del barrio de Cerdanyola quedaban cada jueves en una cafetería cercana 
+a la plaza de Santa Anna para jugar partidas de estrategia y desconectar de las 
+pantallas. Con el paso de los meses, personas curiosas de mesas vecinas se 
+fueron sumando. 
+
+Cuando el espacio del bar se quedó pequeño y las cadenas de WhatsApp se 
+volvieron inmanejables para organizar mesas de más de 12 personas, decidieron 
+dar el paso: constituirse formalmente como asociación cultural sin ánimo de lucro 
+con el objetivo de abrir el juego de mesa moderno a todo el Maresme como un punto 
+de encuentro social, intergeneracional y accesible.
+
+
+2. LOS FUNDADORES
+--------------------------------------------------------------------------------
+• Marc Soler (Mataró, 1993):
+  Diseñador gráfico y apasionado de los juegos de mesa temáticos (ameritrash) y 
+  de deducción social. Es el responsable de la dinamización de eventos, la 
+  acogida de nuevos participantes y la explicación de reglas en las tardes de 
+  juegos abiertas. Defiende el juego como una vía pedagógica y de cohesión barrial.
+
+• Laura Valls (Vilassar de Mar, 1995):
+  Desarrolladora de software y entusiasta de los juegos de gestión de recursos 
+  (eurogames duros). Encargada de la estructura organizativa, las bases 
+  reglamentarias de los torneos, el cómputo de clasificaciones y la futura 
+  infraestructura digital de la asociación.
+
+
+3. CATÁLOGO EMBLEMÁTICO Y DINÁMICA DE ENCUENTROS
+--------------------------------------------------------------------------------
+La ludoteca de la asociación combina accesibilidad para personas recién llegadas 
+y profundidad para jugadoras habituales:
+
+• Encuentros Abiertos ("Tardes de Juegos"):
+  - Catan y Carcassonne (clásicos introductorios).
+  - Cascadia y Wingspan (estrategia ligera/media basada en naturaleza).
+  - The Crew y Codenames (cooperativos y deducción ágiles para grupos).
+
+• Competición y Torneos ("Ligas de Demostración"):
+  - Heat: Pedal to the Metal (carreras tácticas y gestión de manos).
+  - Terraforming Mars y Brass: Birmingham (gestión pesada y ligas por puntos).
+  - Radlands (duelos rápidos para torneos por rondas suizas).
+
+
+4. LOCALIZACIÓN Y ACTIVIDAD
+--------------------------------------------------------------------------------
+• Sede actual: Espai Cívic / Local d'Entitats (Carrer d'En Palmerola, Mataró).
+• Ámbito actual: Mataró y Baix Maresme.
+• Proyección: Circuitos comarcales por el Maresme y encuentros inter-asociaciones 
+  en Cataluña.
+
+
+5. DECISIONES DE DISEÑO WEB (MODO OSCURO Y MINIMALISMO)
+--------------------------------------------------------------------------------
+• Paleta cromática: 
+  - Fondo carbón oscuro (#121316) para minimizar la fatiga visual.
+  - Tarjetas y contenedores (#1a1c21 y #23262d) con bordes suaves (#2e323b) que 
+    delimitan cada sección sin recargar la pantalla.
+  - Color de acento cálido (#e58a42): tono ámbar/madera que aporta personalidad 
+    propia e identidad analógica de tablero.
+• Estructura: Sin dependencias externas ni scripts pesados. Tipografía de sistema 
+  limpia, jerarquía clara y tablas optimizadas para lectura rápida de rondas y 
+  puntuaciones.
