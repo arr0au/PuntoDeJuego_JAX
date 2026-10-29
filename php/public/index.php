@@ -3,6 +3,7 @@
 $activitats = [
     ['titol' => 'Tarde de juegos', 'tipus' => 'Encuentro'],
     ['titol' => 'Liga de demostración', 'tipus' => 'Torneo'],
+    ['titol' => 'Entrenamiento torneo ajedrez', 'tipus' => 'Entrenamiento']
 ];
 function h(string $text): string
 {
