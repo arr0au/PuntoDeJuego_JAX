@@ -1,9 +1,10 @@
-# EVIDENCIAS Joel
+# EVIDENCIAS DE JOEL
 
-## PROCESO
+## ENCARGO 1: PAGINA ESTATICA
 
 ### INSTALAR APACHE 2
 
+```bash
 sudo apt install apache2
 
 sudo systemctl status apache2
@@ -15,9 +16,23 @@ apache2.service - The Apache HTTP Server
 sudo ufw allow 'Apache'
 Rule added
 Rule added (v6)
+```
+
+## ENCARGO 2: PORTAL DINAMICO CON PHP
+
+### EJECUTAR PHP
+
+```bash
+sudo apt install php-fpm
+
+php -S localhost:8090
+```
+
+## ENCARGO 3: DATOS Y CLASIFICACION
 
 ### INSTALAR MARIA DB
 
+```bash
 sudo apt install mariadb-server
 
 sudo mariadb-secure-installation
@@ -26,12 +41,7 @@ sudo systemctl start mariadb
 sudo systemctl status mariadb
 
 mariadb -u root -p
-
-### EJECUTAR PHP
-
-sudo apt install php-fpm
-
-php -S localhost:8090
+```
 
 ### BBDD
 
@@ -43,13 +53,17 @@ Se han introducido las tablas y valores
 
 Y se ha creado la conexion a la bbdd desde la extension
 
+## ENCARGO 4: APLICACION JAVA
+
 ### INSTALAR TOMCAT
 
+```bash
 sudo apt install -y openjdk-21-jdk
 
 java -version
 
 sudo useradd -m -U -d /opt/tomcat -s /bin/false tomcat
+```
 
 #### CREAMOS UN USUARIO ESPECIFICO PARA TOMCAT
 
