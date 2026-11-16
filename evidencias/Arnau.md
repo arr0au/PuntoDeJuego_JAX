@@ -1,7 +1,9 @@
 # Evidencias Arnau
 
 ## PRACTICA 1: INICIAR WEB ESTÁTICA
+
 <img width="286" height="218" alt="image" src="https://github.com/user-attachments/assets/af20836e-0868-477a-b9e7-95a8022cf0f3" />
+
 ## Instalació de HTTP SERVER: 
 
 <img width="546" height="205" alt="image" src="https://github.com/user-attachments/assets/1fa99484-7261-4784-a232-9810b508dbc3" />
@@ -9,6 +11,7 @@
 ## PRACTICA 2: WEB DINAMICA
 
 En esta práctica se adjuntó una estructura de carpetas de web dinamica en php/public/, al recargar la página, cambia la hora, demostrando que es cambiante por el paso del tiempo, no como la anterior.
+
 <img width="303" height="361" alt="image" src="https://github.com/user-attachments/assets/ada80ae5-7e53-4021-b971-d911c93af12d" />
 
 <img width="1917" height="992" alt="image" src="https://github.com/user-attachments/assets/2882ed6d-319b-4cc5-9744-b30c01fbd168" />
