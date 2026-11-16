@@ -8,7 +8,7 @@ Preba de funcionamiento en el navegador:
 Portal dínamico de la página:
 <img width="1440" height="780" alt="imagen" src="https://github.com/user-attachments/assets/f9ea47bd-aa30-44ea-8bbe-b575c5d3aa02" />
 
-La página va actualizando la hora cada vez que se refresca, demonstrando que es una página dínamica.
+La página va actualizando la hora cada vez que se refresca, demostrando que es una página dínamica.
 <img width="1440" height="780" alt="imagen" src="https://github.com/user-attachments/assets/dbb9a348-5a70-4958-b5f5-30eb34090e6b" />
 
 
