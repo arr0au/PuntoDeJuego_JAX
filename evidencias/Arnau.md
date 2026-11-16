@@ -18,6 +18,9 @@ En esta práctica se adjuntó una estructura de carpetas de web dinamica en php/
 ## PRACTICA 3: BASE DE DATOS
 <img width="312" height="736" alt="image" src="https://github.com/user-attachments/assets/8739b4e1-bbf3-45b8-9f2c-f8c372e1bf55" />
 
-En esta práctica se adhiere una base de datos de MySQL en la web dinámica. La imagen adjunta muestra tanto salida de consola tanto datos de la tabla "inscripcions" i estructura de esta base de datos.
+En esta práctica se adhiere una base de datos de MySQL en la web dinámica. La imagen adjunta muestra tanto salida de consola tanto datos de la tabla "inscripcions" i estructura de esta base de datos. Antes de empezar, conectarse mediante (en este caso) una extensión de VSCode "MySQL", iniciar sesión con un usuario aceptado por esta base de datos con todos los permisos. 
+En la base de datos, primero se hacen los create table para poder agregar datos, después los insert de datos y si corresponde select's para ver la información.
 
 <img width="1857" height="926" alt="image" src="https://github.com/user-attachments/assets/2c874250-20ee-428e-bc3f-ef0f6430f2ec" />
+
+<img width="445" height="372" alt="image" src="https://github.com/user-attachments/assets/5f786470-a4e7-4cec-9f92-87e539688627" />
