@@ -6,7 +6,7 @@ Preba de funcionamiento en el navegador:
 <img width="1103" height="531" alt="imagen" src="https://github.com/user-attachments/assets/3f6c78e6-bb33-42b5-8cde-654b870992da" />
 
 Portal dínamico de la página:
-<img width="1440" height="780" alt="imagen" src="https://github.com/user-attachments/assets/a7db5990-6018-4532-9beb-cd96a819e525" />
+<img width="1440" height="780" alt="imagen" src="https://github.com/user-attachments/assets/f9ea47bd-aa30-44ea-8bbe-b575c5d3aa02" />
 
 Añadir la base de datos al proyecto:
 <img width="1440" height="780" alt="imagen" src="https://github.com/user-attachments/assets/5011fbf1-04e2-4564-bd45-8dd341809f11" />
