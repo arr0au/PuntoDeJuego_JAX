@@ -65,10 +65,18 @@ java -version
 sudo useradd -m -U -d /opt/tomcat -s /bin/false tomcat
 ```
 
+sudo apt install tomcat10 tomcat10-admin -y
+
+dpkg -l | grep -i tomcat
+
 #### CREAMOS UN USUARIO ESPECIFICO PARA TOMCAT
 
 ```sql
-CREATE USER 'java_user' @'localhost' IDENTIFIED BY 'Java1234';
+CREATE USER 'java_user' @'localhost' IDENTIFIED BY '1234';
 GRANT ALL PRIVILEGES ON puntdejoc.* TO 'java_user' @'localhost';
 FLUSH PRIVILEGES;
 ```
+
+### INSTALAR DOCKER Y PORTAINER
+
+Utilizado el sh
